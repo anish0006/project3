@@ -32,5 +32,14 @@ Cholesterol and heart rate trends by different factors.
 
 Comparison of death rates based on heart disease history and family history.
 
-![Dashboard Preview](https://github.com/anish0006/project3/blob/main/project1.png?raw=true)
 
+![Dashboard Preview](https://github.com/anish0006/project3/blob/main/project1.png?raw=true)
+Page1
+
+
+![Dashboard Preview](https://github.com/anish0006/project3/blob/main/project21.png?raw=true)
+Page2
+
+
+![Dashboard Preview](https://github.com/anish0006/project3/blob/main/project31.png?raw=true)
+Page3
